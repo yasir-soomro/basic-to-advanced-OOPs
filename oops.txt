@@ -1,0 +1,26 @@
+
+
+OOP ROADMAP (what we’ll cover)
+🔰 BASIC LEVEL
+
+1️⃣ Class & Object
+2️⃣ Attributes & Methods
+3️⃣ __init__ Constructor
+4️⃣ self keyword
+
+⚙️ INTERMEDIATE
+
+5️⃣ Instance vs Class Variables
+6️⃣ Encapsulation
+7️⃣ Abstraction
+8️⃣ Inheritance
+9️⃣ Polymorphism
+
+ ADVANCED
+
+🔟 Method Overriding
+1️⃣1️⃣ Multiple Inheritance
+1️⃣2️⃣ Method Resolution Order (MRO)
+1️⃣3️⃣ Composition vs Inheritance
+1️⃣4️⃣ Magic/Dunder Methods
+1️⃣5️⃣ Decorators in OOP
